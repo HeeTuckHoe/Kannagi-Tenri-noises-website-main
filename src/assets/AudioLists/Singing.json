@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Singing",
+    "file": "singing_01.mp3",
+    "title": "Singing 01",
+    "new": false
+  },
+  {
+    "category": "Singing",
+    "file": "singing_02.mp3",
+    "title": "Singing 02",
+    "new": false
+  },
+  {
+    "category": "Singing",
+    "file": "singing_03.mp3",
+    "title": "Singing 03",
+    "new": false
+  },
+  {
+    "category": "Singing",
+    "file": "singing_04.mp3",
+    "title": "Singing 04",
+    "new": false
+  },
+  {
+    "category": "Singing",
+    "file": "singing_05.mp3",
+    "title": "Singing 05",
+    "new": false
+  },
+  {
+    "category": "Singing",
+    "file": "singing_06.mp3",
+    "title": "Singing 06",
+    "new": false
+  },
+  {
+    "category": "Singing",
+    "file": "singing_07.mp3",
+    "title": "Singing 07",
+    "new": false
+  }
+]

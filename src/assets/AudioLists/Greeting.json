@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Greeting",
+    "file": "bye_byeeeee.mp3",
+    "title": "bye byeeeee",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "cute_ohayou.mp3",
+    "title": "cute ohayou",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "good_afternoon_de_gozaimasu.mp3",
+    "title": "good afternoon de gozaimasu",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "good_morning.mp3",
+    "title": "good morning",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "good_morning_everyone.mp3",
+    "title": "good morning everyone",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "hello_everyone_I_am_tenri_kannagi_thank_you_for_watching_at_night.mp3",
+    "title": "hello everyone I am tenri kannagi thank you for watching at night",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "I_am_tenri_came_from_shin_tokyo.mp3",
+    "title": "I am Kannagi Tenri, 16 years old, came from shin tokyo 新東京から来ました16歳巫てんりです",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "ii_irashaisen.mp3",
+    "title": "ii-rashaisen いーらっしゃっせー",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "irashaisen.mp3",
+    "title": "irashaisen　らっしゃっせー",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "kamsahamida.mp3",
+    "title": "kamsahamnida",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "konnagi_desuuuu.mp3",
+    "title": "konnagi desuuuu",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "morning_voice_intro_english.mp3",
+    "title": "morning voice intro english 英語自己紹介（朝の声）",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "morning_voice_intro_japanese.mp3",
+    "title": "morning voice intro japanese 自己紹介（朝の声）",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "nagikko_syukai_e_yokosou.mp3",
+    "title": "nagikko syuukaie yokosou なぎっこ集会へようこそ",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "nice2meetchu.mp3",
+    "title": "nice2meetchu",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "ohanagi.mp3",
+    "title": "ohanagi",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "ohanagi_02.mp3",
+    "title": "ohanagi 02",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "ohayou_gozaimasu.mp3",
+    "title": "ohayou gozaimasu",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "otsunagi_deshita.mp3",
+    "title": "otsunagi deshita",
+    "new": false
+  },
+  {
+    "category": "Greeting",
+    "file": "shokensan_irashaisen.mp3",
+    "title": "shokensan rashaisen 初見さんらっしゃっせー",
+    "new": false
+  }
+]

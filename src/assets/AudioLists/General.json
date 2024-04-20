@@ -1,0 +1,308 @@
+[
+  {
+    "category": "General",
+    "file": "abuneyo_abunendayo.mp3",
+    "title": "abuneyo, abunendayo あぶねよ、あぶねんだよ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "ah_my_voice_isnt_coming_out.mp3",
+    "title": "a koe denai　あ、声出ない",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "lets_leon.mp3",
+    "title": "let's leon レッツレオン",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "leon_kick.mp3",
+    "title": "leon kick レオンキック",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "anata_wa_bang.mp3",
+    "title": "anata wa bam あなたはバン",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "ara.mp3",
+    "title": "ara あら",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "atashi_onna_ni_narimasu.mp3",
+    "title": "watashi wa onna ni narimasu 私は女になります",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "attakeyo.mp3",
+    "title": "attakeyo, attakendayo あったけよ、あったけんだよ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "bikkurishita.mp3",
+    "title": "bikkurishita びっくりした",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "bon_kyu_bon.mp3",
+    "title": "bon kyu bon",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "chigau_wa_yo.mp3",
+    "title": "chigau wa yo 違うわよ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "daijoubu.mp3",
+    "title": "daijoubu 大丈夫",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "dekka.mp3",
+    "title": "dekka でっか",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "ganbarimasu.mp3",
+    "title": "ganbarimasu 頑張ります",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "ganbatte.mp3",
+    "title": "ganbatte　頑張って",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "ganbatte_ne_iterashaimasen_fighto_dayo.mp3",
+    "title": "ganbatte ne itterasshaimasen fighto dayo　頑張ってね、行ってらっしゃいません、ファイトだよ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "hontoni_hontonano.mp3",
+    "title": "hontoni hontonano　本当に　本当なの",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "i_became_a_rapper.mp3",
+    "title": "rapper ni narimashita ラッパーになりました",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "i_will_read_comment_later.mp3",
+    "title": "commentto ato de yomune コメント後で読むね",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "iterashai.mp3",
+    "title": "itterasshai　行ってらっしゃい",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "jinsei_wo_resetto_shimasu.mp3",
+    "title": "jinsei wo resetto shimasu 人生をレセットします",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "kimochiii.mp3",
+    "title": "kimochiii　気持ちいい",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "kochira_koso_desu_yo.mp3",
+    "title": "kochira koso desu yo　こちらこそですよ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "kono_senso_wo_owarekete_ni_kita.mp3",
+    "title": "kono sensou wo owarase ni kita この戦争を終わらせに来た",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "kyu_bon_bon.mp3",
+    "title": "kyu bon bon",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "kyukkon_nikki_gomenasai.mp3",
+    "title": "kyukon nikki gomenasai　球根ニッキごめんなさい",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "lets_ada.mp3",
+    "title": "let's ada レッツ、エイダ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "lets_nagikko_dan.mp3",
+    "title": "let's nagikko dan レッツなぎっこ団",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "ma_ikka.mp3",
+    "title": "ma iika まあいいか",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "machigai_teru_ne.mp3",
+    "title": "machigae teru ne 間違えてるね",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "minani_aitakattayo.mp3",
+    "title": "minani aitakattayo 皆に会いたかったよ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "omedetou_gozaimasu.mp3",
+    "title": "omedetou gozaimasu　おめでとうございます",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "omochattari_omochatteru_omochattate_kanji_desu.mp3",
+    "title": "omochattari omochatteru omochattate kanji desu おもちゃったりおもちゃってるおもちゃったって感じです",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "muri_muri_muri.mp3",
+    "title": "muri muri muri 無理無理無理",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "onaka_suita.mp3",
+    "title": "onakasuita お腹空いた",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "oremooo.mp3",
+    "title": "oremooo　俺もー",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "owari_owari.mp3",
+    "title": "owari owari 終わり終わり",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "pora_dayo_pora_pora_oishine_pora.mp3",
+    "title": "pora dayo pora pora oishine pora　ポラだよポラ　ポラ美味しいねポラ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "sa_ikimashouuu.mp3",
+    "title": "sa ikimashouuu さあ行きましょううう",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "shh_kokodakeno_himistu.mp3",
+    "title": "shh kokodakeno himistu シーッここだけの秘密",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "shigotto_ganbatte_ne_fighto_fighto_iterashai.mp3",
+    "title": "shigoto ganbatte ne fighto fighto iterasshai　仕事頑張ってね、ファイトファイト行ってらっしゃい",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "sou_anata_wa_nigerare_masen.mp3",
+    "title": "sou anata wa nigerare masen　そうあなたは逃げられませ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "sou_desu_ne.mp3",
+    "title": "sou desu neee そうですねー",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "sugo_oki.mp3",
+    "title": "sugo oki すご大きい",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "sugoi_ureshi.mp3",
+    "title": "sugoi ureshi すごい　嬉しい",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "thank_you_so_much_Nagikkos.mp3",
+    "title": "nagikko no minasan hontoni arigatoudegozaimasu なぎっこの皆さん本当にありがとうありがとうでございます",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "uoooooo.mp3",
+    "title": "uoooooo うおおおお",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "weird_this_wasnt_my_character_type.mp3",
+    "title": "weird, I don't think I've ever been this character 俺こんなキャラじゃなかった 気がするな おかしいな",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "yoisho.mp3",
+    "title": "yoisho よいしょ",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "yoroshiku_onegaishimasu.mp3",
+    "title": "yoroshiku onegaishimasu　よろしくお願いいたします",
+    "new": false
+  },
+  {
+    "category": "General",
+    "file": "yukidaruma_sukuru.mp3",
+    "title": "yukidaruma tsukurou　雪だる作ろう",
+    "new": false
+  }
+]
