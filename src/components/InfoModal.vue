@@ -16,8 +16,8 @@ export default {
             </div>
             <div class="modal-body">
                 <h2>Introduction / 紹介</h2>
-                <p>This is a fanmade soundboard website for an indie vtuber, <a href="https://www.youtube.com/@KannagiTenri">Kannagi Tenri/巫てんり</a> by <a href="https://twitter.com/tuck161">Tuck Hoe</a> inspired by <a href="https:/irysoundboard.com/">irysoundboard.com</a>.</p>
-                <p>これは <a href="https:/irysoundboard.com/">irysoundboard.com</a> にインスパイアされた <a href="https://twitter.com/tuck161">Tuck Hoe </a>による個人勢Vtuber <a href="https://www.youtube.com/@KannagiTenri">巫てんり</a>さんのファンメイド・サウンドボード・サイトです！</p>
+                <p>This is a fanmade soundboard website for an indie vtuber, <a href="https://www.youtube.com/@KannagiTenri">Kannagi Tenri/巫てんり</a> by <a href="https://twitter.com/tuck161">Tuck Hoe</a> inspired by <a href="https://irysoundboard.com/">irysoundboard.com</a>.</p>
+                <p>これは <a href="https://irysoundboard.com/">irysoundboard.com</a> にインスパイアされた <a href="https://twitter.com/tuck161">Tuck Hoe </a>による個人勢Vtuber <a href="https://www.youtube.com/@KannagiTenri">巫てんり</a>さんのファンメイド・サウンドボード・サイトです！</p>
                 <h2>Credits / クレジット</h2>
                 <ul>
                     <li>
