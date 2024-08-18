@@ -34,10 +34,6 @@ export default {
                 <h5>If you want to suggest any sounds/voice of Tenri, please suggest it here <a href="https://forms.gle/VYrvfH6JExQge6AVA">https://forms.gle/VYrvfH6JExQge6AVA</a>. Thanks for your suggestions!</h5>
                 <h5>てんりのサウンド／ボイスを提案したい方は、こちら<a href="https://forms.gle/VYrvfH6JExQge6AVA">（https://forms.gle/VYrvfH6JExQge6AVA）</a>から提案してください。ご提案ありがとうございました！</h5>
             </div>
-            <div class="modal-body">
-                <p>Note: This website works properly for dekstop only for now.</p>
-                <p>注：このサイトは、今のところパソコンでのみ正常に機能しています。</p>
-            </div>
         </div>
     </div>
 </template>
