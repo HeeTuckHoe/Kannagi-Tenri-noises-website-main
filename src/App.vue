@@ -283,7 +283,11 @@ onBeforeUnmount(() => {
     transition: left 0.3s ease; /* Smooth slide-in effect */
     z-index: 1001; /* Ensure the menu is above other content */
   }
-
+  
+  .content-column hr {
+    margin-bottom: 40px !important;
+  } 
+  
   .burger-btn {
     display: block;
     position: fixed;
