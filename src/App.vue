@@ -312,6 +312,24 @@ onBeforeUnmount(() => {
     background: #444; /* Change color on hover */
   }
 
+  .logo {
+    width: 20px;
+    height: 20px;
+    margin-top: 2em;
+  }
+
+  .logo2 {
+    width: 20px;
+    height: 20px;
+    margin-top: 0.5em;
+  }
+
+  .text {
+    font-size: 20px;
+    padding-top: 8px;
+    margin-right: 5px;
+  }
+
   .nav-overlay {
     display: none;
     position: fixed;
@@ -340,6 +358,5 @@ onBeforeUnmount(() => {
     margin-left: 0;
   }
 }
-
 
 </style>
