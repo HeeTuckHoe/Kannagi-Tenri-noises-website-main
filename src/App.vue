@@ -278,7 +278,7 @@ onBeforeUnmount(() => {
     overflow-y: auto;
     padding-top: 4rem;
     padding-left: 20rem;
-    padding-right: 3rem;
+    padding-right: 2rem;
     font-size: 25px;
     transition: left 0.3s ease; /* Smooth slide-in effect */
     z-index: 1001; /* Ensure the menu is above other content */
