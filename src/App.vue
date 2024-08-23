@@ -277,7 +277,7 @@ onBeforeUnmount(() => {
     background-color: rgba(0, 0, 0, 0.5); /* Background color for the menu */
     overflow-y: auto;
     padding-top: 4rem;
-    padding-left: 20rem;
+    padding-left: 18rem;
     padding-right: 4rem;
     font-size: 25px;
     transition: left 0.3s ease; /* Smooth slide-in effect */
