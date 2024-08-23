@@ -269,7 +269,7 @@ onBeforeUnmount(() => {
 /* Mobile Styles */
 @media (max-width: 768px) {
   .menu-column {
-    width: 70%; /* Width of the menu on mobile */
+    width: 50%; /* Width of the menu on mobile */
     position: fixed;
     top: 0;
     left: -70%; /* Start off-screen */
