@@ -361,6 +361,25 @@ onBeforeUnmount(() => {
     width: 90%; /* Full width for content on mobile */
     margin-left: 0;
   }
+
+    /* InfoModal.vue */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 2000;
+  }
+
+  .modal-content {
+    position: relative;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    z-index: 2001;
+  }
 }
 
 
