@@ -272,7 +272,7 @@ onBeforeUnmount(() => {
     width: 50%; /* Width of the menu on mobile */
     position: fixed;
     top: 0;
-    left: -60%; /* Start off-screen */
+    left: -80%; /* Start off-screen */
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5); /* Background color for the menu */
     overflow-y: auto;
